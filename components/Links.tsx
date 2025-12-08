@@ -24,7 +24,8 @@ export default function Links() {
         פרק הרואה
       </Link>
 
-      <a href="/about">אודות</a>
+      <Link href="/forum">פורומים</Link>
+      <Link href="/about">אודות</Link>
     </div>
   );
 }

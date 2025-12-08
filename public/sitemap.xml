@@ -3,67 +3,157 @@
 		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://pitron-halomot.org/</loc>
-	<lastmod>2025-10-15T08:23:14+01:00</lastmod>
+	<lastmod>2025-12-08T21:06:40+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://pitron-halomot.org/book</loc>
-	<lastmod>2025-10-15T08:23:14+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://pitron-halomot.org/book-2</loc>
-	<lastmod>2025-10-15T08:23:14+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://pitron-halomot.org/book-3</loc>
-	<lastmod>2025-10-15T08:23:14+01:00</lastmod>
+	<lastmod>2025-12-08T21:06:40+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://pitron-halomot.org/roe1</loc>
-	<lastmod>2025-10-15T08:23:14+01:00</lastmod>
+	<lastmod>2025-12-08T21:06:40+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum</loc>
+	<lastmod>2025-12-08T21:06:40+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://pitron-halomot.org/about</loc>
-	<lastmod>2025-10-15T08:23:14+01:00</lastmod>
+	<lastmod>2025-12-08T21:06:40+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum/new-posts</loc>
+	<lastmod>2025-12-08T21:06:42+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum/search</loc>
+	<lastmod>2025-12-08T21:06:42+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum/f/1</loc>
+	<lastmod>2025-12-08T21:06:42+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum/f/2</loc>
+	<lastmod>2025-12-08T21:06:42+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum/f/3</loc>
+	<lastmod>2025-12-08T21:06:42+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum/f/5</loc>
+	<lastmod>2025-12-08T21:06:42+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum/f/10</loc>
+	<lastmod>2025-12-08T21:06:42+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/book-2</loc>
+	<lastmod>2025-12-08T21:06:43+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/book-3</loc>
+	<lastmod>2025-12-08T21:06:43+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://pitron-halomot.org/roe2</loc>
-	<lastmod>2025-10-15T08:23:14+01:00</lastmod>
+	<lastmod>2025-12-08T21:06:43+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://pitron-halomot.org/roe3</loc>
-	<lastmod>2025-10-15T08:23:14+01:00</lastmod>
+	<lastmod>2025-12-08T21:06:43+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://pitron-halomot.org/roe4</loc>
-	<lastmod>2025-10-15T08:23:14+01:00</lastmod>
+	<lastmod>2025-12-08T21:06:43+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://pitron-halomot.org/roe5</loc>
-	<lastmod>2025-10-15T08:23:14+01:00</lastmod>
+	<lastmod>2025-12-08T21:06:43+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://pitron-halomot.org/roe6</loc>
-	<lastmod>2025-10-15T08:23:14+01:00</lastmod>
+	<lastmod>2025-12-08T21:06:43+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://pitron-halomot.org/roe7</loc>
-	<lastmod>2025-10-15T08:23:14+01:00</lastmod>
+	<lastmod>2025-12-08T21:06:43+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://pitron-halomot.org/roe8</loc>
-	<lastmod>2025-10-15T08:23:14+01:00</lastmod>
+	<lastmod>2025-12-08T21:06:43+01:00</lastmod>
 	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum/f/3/new</loc>
+	<lastmod>2025-12-08T21:06:44+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum/thread/18</loc>
+	<lastmod>2025-12-08T21:06:44+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum/thread/20</loc>
+	<lastmod>2025-12-08T21:06:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum/thread/19</loc>
+	<lastmod>2025-12-08T21:06:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum/thread/17</loc>
+	<lastmod>2025-12-08T21:06:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum/thread/16</loc>
+	<lastmod>2025-12-08T21:06:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum/f/1/new</loc>
+	<lastmod>2025-12-08T21:06:45+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum/f/2/new</loc>
+	<lastmod>2025-12-08T21:06:45+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum/f/5/new</loc>
+	<lastmod>2025-12-08T21:06:46+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://pitron-halomot.org/forum/f/10/new</loc>
+	<lastmod>2025-12-08T21:06:46+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 </urlset>

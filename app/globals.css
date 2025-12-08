@@ -34,14 +34,14 @@ a.enter {
   align-items: center;
   gap: 0.6rem;
   color: rgb(244, 172, 83);
-  width: 200px;
+  width: 250px;
 
   font-size: 2rem;
 }
 a.enter span {
-  font-size: 1.4rem;
-  width: 250px;
-  text-align: right;
+  font-size: 1.6rem;
+  width: 180px;
+  text-align: center;
 }
 b {
   margin-left: 20px;
@@ -103,7 +103,7 @@ h4 {
   margin: 35px auto;
   margin-top: 25px;
   text-align: center;
-  padding: 10px;
+  padding: 1.6rem;
   background-color: rgba(0, 0, 0, 0.7);
   border-radius: 30px;
 }
@@ -127,9 +127,10 @@ h4 {
   object-fit: cover;
 }
 input#google-search {
-  margin: 0 10px;
+  margin: 1rem;
   background-color: white;
   color: black;
+  border-radius: 5px;
 }
 label p {
   display: inline-block;
@@ -205,6 +206,21 @@ label p {
 .hai-links a:hover {
   color: rgb(157, 113, 55);
 }
+
+.about-container .nf-link {
+  /* display: block;  */
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin: 2rem;
+  color: bisque; /* Blue */
+  text-decoration: none;
+  transition: 0.2s ease;
+}
+
+.about-container .nf-link:hover {
+  color: rgb(208, 130, 34);
+}
+
 .index-container a img {
   height: 470px;
   margin: 20px;

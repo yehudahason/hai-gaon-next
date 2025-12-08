@@ -59,7 +59,7 @@ export default function About() {
           />
           <input type="hidden" name="currency_code" value="USD" />
           <label htmlFor="submit">
-            <p>תרום לתמיכה באתר</p> &nbsp; &nbsp;
+            <p>תרומה לאתר</p> &nbsp; &nbsp;
           </label>
           <input
             type="image"
