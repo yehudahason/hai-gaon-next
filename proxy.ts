@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { writeLog } from "./utils/loggers";
 
-export function middleware(req: Request) {
+export function proxy(req: Request) {
   const ip =
     req.headers.get("CF-Connecting-IP") ||
     req.headers.get("x-forwarded-for")?.split(",")[0] ||
