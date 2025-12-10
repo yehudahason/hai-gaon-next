@@ -6,6 +6,10 @@ export default function Book2() {
     <>
       <div className="book-container">
         <h1>סדר פתרון חלומות</h1>
+        <h3>
+          מהרב הגאון רבינו האי ז"ל ויוסף הצדיק ודניאל איש חמודות <br />
+          ורש"י ז"ל וחכמים אחרים
+        </h3>
         <h3>חלק ב'</h3>
         <h4>עמוד</h4>
         <Hailinks />
