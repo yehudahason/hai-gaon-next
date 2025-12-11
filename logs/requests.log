@@ -1929,3 +1929,255 @@
 [10.12.2025, 16:45:53] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
 [10.12.2025, 16:45:53] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
 [10.12.2025, 16:45:53] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 16:52:47] IP: 84.94.121.47 | GET https://localhost:3000/forum | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 16:52:47] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 16:52:47] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 16:52:47] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 16:52:47] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 16:52:47] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:24] IP: 84.94.121.47 | GET https://localhost:3000/forum/new-posts | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:26] IP: 84.94.121.47 | GET https://localhost:3000/forum | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:27] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:27] IP: 84.94.121.47 | GET https://localhost:3000/_next/image?url=%2Fhaigaonpic.jpg&w=640&q=75 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:27] IP: 84.94.121.47 | GET https://localhost:3000/home2.svg | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:28] IP: 84.94.121.47 | GET https://localhost:3000/forum | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:28] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:28] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:28] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:28] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:28] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:28] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:28] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:28] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:28] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:28] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:28] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:28] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:28] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:28] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:28] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:01:28] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[10.12.2025, 17:41:54] IP: ::ffff:213.21.239.49 | GET http://localhost:3000/ | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+[10.12.2025, 18:05:18] IP: 94.23.188.203 | GET https://localhost:3000/roe5 | UA: Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+[10.12.2025, 18:07:43] IP: 51.75.236.149 | GET https://localhost:3000/_next/static/chunks/664adc71bc2617c2.js | UA: Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+[10.12.2025, 18:11:10] IP: 2a03:2880:f800:21:: | GET https://localhost:3000/ | UA: meta-webindexer/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)
+[10.12.2025, 18:24:04] IP: ::ffff:193.34.213.150 | POST http://localhost:3000/ | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+[10.12.2025, 18:26:19] IP: ::ffff:213.21.239.49 | POST http://localhost:3000/ | UA: Go-http-client/1.1
+[10.12.2025, 18:49:19] IP: ::ffff:91.196.152.103 | GET http://localhost:3000/ | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0
+[10.12.2025, 18:49:57] IP: ::ffff:66.132.153.143 | GET http://localhost:3000/ | UA: unknown
+[10.12.2025, 18:50:02] IP: ::ffff:66.132.153.143 | GET http://localhost:3000/ | UA: Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+[10.12.2025, 18:50:03] IP: ::ffff:66.132.153.143 | GET http://localhost:3000/favicon.ico | UA: Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+[10.12.2025, 18:50:04] IP: ::ffff:66.132.153.143 | GET http://localhost:3000/favicon.ico?favicon.0b3bf435.ico= | UA: Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+[10.12.2025, 18:50:11] IP: ::ffff:66.132.153.143 | GET http://localhost:3000/robots.txt | UA: Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+[10.12.2025, 18:52:35] IP: 34.50.165.219 | GET https://localhost:3000/ | UA: Mozilla/5.0 (compatible; CMS-Checker/1.0; +https://example.com)
+[10.12.2025, 18:56:54] IP: ::ffff:91.196.152.4 | GET http://localhost:3000/favicon.ico | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0
+[10.12.2025, 19:09:32] IP: ::ffff:192.3.138.26 | GET http://localhost:3000/ | UA: Mozilla/5.0 (compatible; LumeWebScan/2.0; +https://lumeweaver.com/)
+[10.12.2025, 19:33:15] IP: ::ffff:34.87.171.45 | GET http://localhost:3000/ | UA: python-requests/2.32.5
+[10.12.2025, 19:33:20] IP: ::ffff:34.87.171.45 | POST http://localhost:3000/ | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+[10.12.2025, 19:55:03] IP: ::ffff:34.87.171.45 | GET http://localhost:3000/ | UA: python-requests/2.32.5
+[10.12.2025, 19:55:08] IP: ::ffff:34.87.171.45 | POST http://localhost:3000/ | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+[10.12.2025, 20:07:53] IP: ::ffff:20.54.76.163 | GET http://localhost:3000/ | UA: Python/3.11 aiohttp/3.8.4
+[10.12.2025, 20:14:36] IP: ::ffff:18.206.244.47 | GET http://localhost:3000/ | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[10.12.2025, 20:15:23] IP: ::ffff:192.159.99.95 | POST http://localhost:3000/ | UA: Mozilla/5.0 (rondo2012@atomicmail.io)
+[10.12.2025, 20:21:44] IP: ::ffff:34.87.171.45 | GET http://localhost:3000/ | UA: python-requests/2.32.5
+[10.12.2025, 20:21:50] IP: ::ffff:34.87.171.45 | POST http://localhost:3000/ | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+[10.12.2025, 20:24:12] IP: ::ffff:79.124.40.174 | POST http://localhost:3000/ | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+[10.12.2025, 20:40:37] IP: 125.75.66.97 | GET https://localhost:3000/ | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+[10.12.2025, 20:42:26] IP: 45.82.13.170 | GET https://localhost:3000/.env | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+[10.12.2025, 20:53:13] IP: 84.94.121.47 | GET https://localhost:3000/forum | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:13] IP: 84.94.121.47 | GET https://localhost:3000/forum/style.css | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:13] IP: 84.94.121.47 | GET https://localhost:3000/forum/logo.svg | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:13] IP: 84.94.121.47 | GET https://localhost:3000/forum/nagishli.js?v=2.3 | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:13] IP: 84.94.121.47 | GET https://localhost:3000/forum/srch.png | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:13] IP: 84.94.121.47 | GET https://localhost:3000/forum/nl-files/gfx/sprite.png?v=2.3 | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/_next/image?url=%2Farrow.png&w=96&q=75 | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/_next/image?url=%2Fhaigaonpic.jpg&w=640&q=75 | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/home2.svg | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/nagishli.js?v=2.3 | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/img/jerusalem.jpg | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/forum | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/nl-files/gfx/sprite.png?v=2.3 | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:15] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:17] IP: 84.94.121.47 | GET https://localhost:3000/forum | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 20:53:17] IP: 84.94.121.47 | GET https://localhost:3000/forum | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+[10.12.2025, 21:23:59] IP: ::ffff:34.87.171.45 | GET http://localhost:3000/ | UA: python-requests/2.32.5
+[10.12.2025, 21:24:05] IP: ::ffff:34.87.171.45 | POST http://localhost:3000/ | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+[10.12.2025, 21:46:04] IP: 2a07:e05:3:1b::1 | GET https://localhost:3000/ | UA: Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/8.0.57838 Mobile/12F69 Safari/600.1.4
+[10.12.2025, 21:46:05] IP: 2a07:e05:3:1b::1 | GET https://localhost:3000/_next/static/chunks/cf99c5a4d7bfaf78.js | UA: Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/8.0.57838 Mobile/12F69 Safari/600.1.4
+[10.12.2025, 21:46:06] IP: 2a07:e05:3:1b::1 | GET https://localhost:3000/_next/static/chunks/6740f161f60c6ab5.js | UA: Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/8.0.57838 Mobile/12F69 Safari/600.1.4
+[10.12.2025, 21:46:07] IP: 2a07:e05:3:1b::1 | GET https://localhost:3000/_next/static/chunks/247eb132b7f7b574.js | UA: Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/8.0.57838 Mobile/12F69 Safari/600.1.4
+[10.12.2025, 21:46:08] IP: 2a07:e05:3:1b::1 | GET https://localhost:3000/_next/static/chunks/330faf687a17f9e8.js | UA: Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/8.0.57838 Mobile/12F69 Safari/600.1.4
+[10.12.2025, 21:46:09] IP: 2a07:e05:3:1b::1 | GET https://localhost:3000/_next/static/chunks/3b4706c21c4d9023.js | UA: Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/8.0.57838 Mobile/12F69 Safari/600.1.4
+[10.12.2025, 21:46:10] IP: 2a07:e05:3:1b::1 | GET https://localhost:3000/_next/static/chunks/turbopack-b62f2267e2794434.js | UA: Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/8.0.57838 Mobile/12F69 Safari/600.1.4
+[10.12.2025, 21:46:11] IP: 2a07:e05:3:1b::1 | GET https://localhost:3000/_next/static/chunks/94bde6376cf279be.js | UA: Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/8.0.57838 Mobile/12F69 Safari/600.1.4
+[10.12.2025, 21:46:13] IP: 2a07:e05:3:1b::1 | GET https://localhost:3000/_next/static/chunks/ff1a16fafef87110.js | UA: Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/8.0.57838 Mobile/12F69 Safari/600.1.4
+[10.12.2025, 21:46:13] IP: 2a07:e05:3:1b::1 | GET https://localhost:3000/_next/static/chunks/664adc71bc2617c2.js | UA: Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/8.0.57838 Mobile/12F69 Safari/600.1.4
+[10.12.2025, 22:37:36] IP: 104.210.140.137 | GET https://localhost:3000/robots.txt | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot
+[10.12.2025, 23:07:25] IP: 3.90.81.114 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+[10.12.2025, 23:07:26] IP: 3.90.81.114 | GET https://localhost:3000/ | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36
+[10.12.2025, 23:07:27] IP: 3.90.81.114 | GET https://localhost:3000/ | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:27] IP: 3.90.81.114 | GET https://localhost:3000/_next/image?url=%2Fhaigaonpic.jpg&w=256&q=75 | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:27] IP: ::ffff:172.23.0.2 | GET http://localhost:3000/haigaonpic.jpg | UA: unknown
+[10.12.2025, 23:07:27] IP: 3.90.81.114 | GET https://localhost:3000/_next/image?url=%2Farrow.png&w=48&q=75 | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:27] IP: ::ffff:172.23.0.2 | GET http://localhost:3000/arrow.png | UA: unknown
+[10.12.2025, 23:07:27] IP: 3.90.81.114 | GET https://localhost:3000/home2.svg | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:27] IP: 3.90.81.114 | GET https://localhost:3000/nagishli.js?v=2.3 | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:27] IP: 3.90.81.114 | GET https://localhost:3000/img/jerusalem.jpg | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:29] IP: 3.90.81.114 | GET https://localhost:3000/forum | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:29] IP: 3.90.81.114 | GET https://localhost:3000/about | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:29] IP: 3.90.81.114 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:29] IP: 3.90.81.114 | GET https://localhost:3000/book | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:29] IP: 3.90.81.114 | GET https://localhost:3000/nl-files/gfx/sprite.png?v=2.3 | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:29] IP: 3.90.81.114 | GET https://localhost:3000/ | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:29] IP: 3.90.81.114 | GET https://localhost:3000/about | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:29] IP: 3.90.81.114 | GET https://localhost:3000/about | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:29] IP: 3.90.81.114 | GET https://localhost:3000/about | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:29] IP: 3.90.81.114 | GET https://localhost:3000/about | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:29] IP: 3.90.81.114 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:29] IP: 3.90.81.114 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:29] IP: 3.90.81.114 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:30] IP: 3.90.81.114 | GET https://localhost:3000/book | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:30] IP: 3.90.81.114 | GET https://localhost:3000/book | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:30] IP: 3.90.81.114 | GET https://localhost:3000/book | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:30] IP: 3.90.81.114 | GET https://localhost:3000/ | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:07:30] IP: 3.90.81.114 | GET https://localhost:3000/ | UA: Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+[10.12.2025, 23:20:29] IP: 43.133.69.37 | GET https://localhost:3000/ | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+[11.12.2025, 0:34:54] IP: 4.217.235.181 | GET https://localhost:3000/.well-known/index.php | UA: Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:34:55] IP: 4.217.235.181 | GET https://localhost:3000/404.php | UA: Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:34:55] IP: 4.217.235.181 | GET https://localhost:3000/aa.php | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:34:56] IP: 4.217.235.181 | GET https://localhost:3000/abcd.php | UA: Mozilla/5.g (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:34:56] IP: 4.217.235.181 | GET https://localhost:3000/about.php | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+[11.12.2025, 0:34:57] IP: 4.217.235.181 | GET https://localhost:3000/adminfuns.php | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:34:58] IP: 4.217.235.181 | GET https://localhost:3000/ahax.php | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1
+[11.12.2025, 0:34:58] IP: 4.217.235.181 | GET https://localhost:3000/akcc.php | UA: Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1
+[11.12.2025, 0:34:59] IP: 4.217.235.181 | GET https://localhost:3000/alfa.php | UA: Mozilla/5.0 (Linux; Android 13; SM-S908E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:34:59] IP: 4.217.235.181 | GET https://localhost:3000/assets/images | UA: Mozilla/5.0 (Linux; Android 12; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:00] IP: 4.217.235.181 | GET https://localhost:3000/autoload_classmap/function.php | UA: Mozilla/5.0 (Linux; Android 12; 2201116SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:00] IP: 4.217.235.181 | GET https://localhost:3000/av.php | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:01] IP: 4.217.235.181 | GET https://localhost:3000/bless.php | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+[11.12.2025, 0:35:01] IP: 4.217.235.181 | GET https://localhost:3000/bolt.php | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Mobile/15E148 Safari/604.1
+[11.12.2025, 0:35:02] IP: 4.217.235.181 | GET https://localhost:3000/buy.php | UA: Mozilla/5.0 (Linux; Android 12; V2134) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:03] IP: 4.217.235.181 | GET https://localhost:3000/atomlib.php | UA: Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:03] IP: 4.217.235.181 | GET https://localhost:3000/cgi-bin/file.php | UA: Mozilla/5.0 (Linux; Android 11; 21081111RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:04] IP: 4.217.235.181 | GET https://localhost:3000/cgi-bin/index.php | UA: Mozilla/5.0 (Linux; Android 13; SM-G991U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:04] IP: 4.217.235.181 | GET https://localhost:3000/chosen.php | UA: Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1
+[11.12.2025, 0:35:05] IP: 4.217.235.181 | GET https://localhost:3000/classwithtostring.php | UA: Mozilla/5.g (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:05] IP: 4.217.235.181 | GET https://localhost:3000/edit.php | UA: Mozilla/5.g (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:06] IP: 4.217.235.181 | GET https://localhost:3000/elp.php | UA: Mozilla/5.0 (iPad; CPU OS 16_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+[11.12.2025, 0:35:06] IP: 4.217.235.181 | GET https://localhost:3000/simple.php | UA: Mozilla/5.0 (Linux; Android 11; CPH2251) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:07] IP: 4.217.235.181 | GET https://localhost:3000/file.php | UA: Mozilla/5.0 (Linux; Android 11; 21081111RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:07] IP: 4.217.235.181 | GET https://localhost:3000/item.php | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/119.0.6045.109 Mobile/15E148 Safari/604.1
+[11.12.2025, 0:35:08] IP: 4.217.235.181 | GET https://localhost:3000/files | UA: Mozilla/5.0 (Linux; Android 12; 2201116SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:09] IP: 4.217.235.181 | GET https://localhost:3000/gg.php | UA: Mozilla/5.0 (Linux; Android 13; SM-S908E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:09] IP: 4.217.235.181 | GET https://localhost:3000/goods.php | UA: Mozilla/5.g (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:10] IP: 4.217.235.181 | GET https://localhost:3000/images | UA: Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:10] IP: 4.217.235.181 | GET https://localhost:3000/images/install.php | UA: Mozilla/5.0 (Linux; Android 12; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:11] IP: 4.217.235.181 | GET https://localhost:3000/info.php | UA: Mozilla/5.0 (Linux; Android 11; 21081111RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:12] IP: 4.217.235.181 | GET https://localhost:3000/ioxi-o.php | UA: Mozilla/5.0 (Linux; Android 11; CPH2251) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:12] IP: 4.217.235.181 | GET https://localhost:3000/k.php | UA: Mozilla/5.0 (Linux; Android 13; M2101K6G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:13] IP: 4.217.235.181 | GET https://localhost:3000/mah.php | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Mobile/15E148 Safari/604.1
+[11.12.2025, 0:35:13] IP: 4.217.235.181 | GET https://localhost:3000/mah/function.php | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1
+[11.12.2025, 0:35:14] IP: 4.217.235.181 | GET https://localhost:3000/manager.php | UA: Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:14] IP: 4.217.235.181 | GET https://localhost:3000/mini | UA: Mozilla/5.0 (Linux; Android 13; SM-S908E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:15] IP: 4.217.235.181 | GET https://localhost:3000/new.php | UA: Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1
+[11.12.2025, 0:35:15] IP: 4.217.235.181 | GET https://localhost:3000/dropdown.php | UA: Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:16] IP: 4.217.235.181 | GET https://localhost:3000/cong.php | UA: Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:16] IP: 4.217.235.181 | GET https://localhost:3000/public/files/index.php | UA: Mozilla/5.0 (iPad; CPU OS 16_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+[11.12.2025, 0:35:17] IP: 4.217.235.181 | GET https://localhost:3000/radio.php | UA: Mozilla/5.0 (Linux; Android 12; 2201116SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:17] IP: 4.217.235.181 | GET https://localhost:3000/themes.php | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+[11.12.2025, 0:35:18] IP: 4.217.235.181 | GET https://localhost:3000/uploads/index.php | UA: Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 0:35:54] IP: ::ffff:176.65.148.66 | HEAD http://localhost:3000/ | UA: Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org  )
+[11.12.2025, 0:35:56] IP: ::ffff:176.65.148.66 | POST http://localhost:3000/ | UA: Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org  )
+[11.12.2025, 0:35:57] IP: ::ffff:176.65.148.66 | POST http://localhost:3000/_next | UA: Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org  )
+[11.12.2025, 1:27:49] IP: ::ffff:213.21.239.49 | POST http://localhost:3000/ | UA: Go-http-client/1.1
+[11.12.2025, 1:40:31] IP: 2a03:2880:2ff:3:: | GET https://localhost:3000/robots.txt | UA: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+[11.12.2025, 2:01:18] IP: 84.94.121.47 | GET https://localhost:3000/forum | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:18] IP: 84.94.121.47 | GET https://localhost:3000/forum/style.css | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:18] IP: 84.94.121.47 | GET https://localhost:3000/forum/nagishli.js?v=2.3 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:18] IP: 84.94.121.47 | GET https://localhost:3000/forum/logo.svg | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:18] IP: 84.94.121.47 | GET https://localhost:3000/forum/srch.png | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:18] IP: 84.94.121.47 | GET https://localhost:3000/forum/nl-files/gfx/sprite.png?v=2.3 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:22] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:22] IP: 84.94.121.47 | GET https://localhost:3000/nagishli.js?v=2.3 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:22] IP: 84.94.121.47 | GET https://localhost:3000/_next/image?url=%2Fhaigaonpic.jpg&w=640&q=75 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:22] IP: 84.94.121.47 | GET https://localhost:3000/_next/image?url=%2Farrow.png&w=96&q=75 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:22] IP: 84.94.121.47 | GET https://localhost:3000/home2.svg | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:22] IP: 84.94.121.47 | GET https://localhost:3000/img/jerusalem.jpg | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/favicon.ico?favicon.0b3bf435.ico= | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/forum | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/nl-files/gfx/sprite.png?v=2.3 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 2:01:23] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[11.12.2025, 3:02:22] IP: ::ffff:205.210.31.211 | GET http://localhost:3000/ | UA: Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity
+[11.12.2025, 3:16:00] IP: 4.190.209.17 | GET https://localhost:3000/autoload_classmap/function.php | UA: Mozilla/5.0 (iPad; CPU OS 16_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+[11.12.2025, 3:16:01] IP: 4.190.209.17 | GET https://localhost:3000/browse.php | UA: Mozilla/5.0 (iPad; CPU OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1
+[11.12.2025, 3:16:02] IP: 4.190.209.17 | GET https://localhost:3000/wp.php | UA: Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+[11.12.2025, 3:16:03] IP: 4.190.209.17 | GET https://localhost:3000/xmlrpc.php | UA: Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36
+[11.12.2025, 3:16:03] IP: 4.190.209.17 | GET https://localhost:3000/xmrlpc.php | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/119.0.6045.109 Mobile/15E148 Safari/604.1
+[11.12.2025, 3:40:16] IP: unknown | POST http://localhost:3000/ | UA: Mozilla/5.0 (rondo2012@atomicmail.io)
+[11.12.2025, 3:47:35] IP: 54.201.175.249 | GET https://localhost:3000/ | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 Assetnote/1.0.0
+[11.12.2025, 3:47:35] IP: 54.201.175.249 | HEAD https://localhost:3000/apps | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 Assetnote/1.0.0
+[11.12.2025, 3:47:35] IP: 54.201.175.249 | HEAD https://localhost:3000/api/action | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 Assetnote/1.0.0
+[11.12.2025, 3:47:36] IP: 54.201.175.249 | HEAD https://localhost:3000/api/actions | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 Assetnote/1.0.0
+[11.12.2025, 3:47:36] IP: 54.201.175.249 | HEAD https://localhost:3000/_next/data | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 Assetnote/1.0.0
+[11.12.2025, 3:59:33] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:33] IP: 84.94.121.47 | GET https://localhost:3000/_next/image?url=%2Fhaigaonpic.jpg&w=640&q=75 | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:33] IP: 84.94.121.47 | GET https://localhost:3000/_next/image?url=%2Farrow.png&w=96&q=75 | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:33] IP: 84.94.121.47 | GET https://localhost:3000/home2.svg | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:33] IP: 84.94.121.47 | GET https://localhost:3000/nagishli.js?v=2.3 | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:33] IP: 84.94.121.47 | GET https://localhost:3000/img/jerusalem.jpg | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:33] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:33] IP: 84.94.121.47 | GET https://localhost:3000/forum | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:33] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:33] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:33] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:33] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:33] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:33] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:33] IP: 84.94.121.47 | GET https://localhost:3000/nl-files/gfx/sprite.png?v=2.3 | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:33] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:33] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:34] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:34] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:34] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:34] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:34] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:34] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:34] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:36] IP: 84.94.121.47 | GET https://localhost:3000/forum | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:36] IP: 84.94.121.47 | GET https://localhost:3000/forum | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:36] IP: 84.94.121.47 | GET https://localhost:3000/forum/logo.svg | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:36] IP: 84.94.121.47 | GET https://localhost:3000/forum/srch.png | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:36] IP: 84.94.121.47 | GET https://localhost:3000/forum/nagishli.js?v=2.3 | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:36] IP: 84.94.121.47 | GET https://localhost:3000/forum/style.css | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[11.12.2025, 3:59:36] IP: 84.94.121.47 | GET https://localhost:3000/forum/nl-files/gfx/sprite.png?v=2.3 | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
