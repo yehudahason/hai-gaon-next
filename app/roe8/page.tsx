@@ -1,8 +1,11 @@
+"use client";
 import RoeLinks from "@/components/RoeLinks";
 export default function Roe8() {
   return (
     <>
       <div className="book-container">
+        <h1>פרק הרואה מסכת ברכות</h1>
+        <h3>עם פירוש שטיינזלץ זצ"ל</h3>
         <h3>ברכות נז ע"ב</h3>
         <h4>עמוד</h4>
         <RoeLinks />
@@ -148,8 +151,8 @@ export default function Roe8() {
           עפר לטיט לבניני המקום וסוף סוף אותו מקום אין בו ישוב ולא זרע ולא
           נטיעה: גוזר ומקיים. שגזר להשמידה וקיים:
         </p>
-        <h3>ברכות נז ע"ב</h3>
-        <h4>עמוד</h4>
+        <h4>עמוד נז ע"ב</h4>
+
         <RoeLinks />
       </div>
     </>

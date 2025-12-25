@@ -1,3 +1,4 @@
+"use client";
 import RoeLinks from "@/components/RoeLinks";
 export default function Roe1() {
   return (
@@ -140,8 +141,7 @@ export default function Roe1() {
           מעברות נחלי ארנון. לקמן מפרש מאי ניסא: במורד בית חורון. בימי יהושע היה
           בספר יהושע: ואבן שזרק עוג. לקמן מפרש:
         </p>
-        <h3>ברכות נד ע"א</h3>
-        <h4>עמוד</h4>
+        <h4>עמוד נד ע"א</h4>
         <RoeLinks />
       </div>
     </>

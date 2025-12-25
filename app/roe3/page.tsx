@@ -1,8 +1,11 @@
+"use client";
 import RoeLinks from "@/components/RoeLinks";
 export default function Roe3() {
   return (
     <>
       <div className="book-container">
+        <h1>פרק הרואה מסכת ברכות</h1>
+        <h3>עם פירוש שטיינזלץ זצ"ל</h3>
         <h3>ברכות נה ע"א</h3>
         <h4>עמוד</h4>
         <RoeLinks />
@@ -152,8 +155,7 @@ export default function Roe3() {
           ליה. מבטליה: מנגדא. ממלקות קשה לגוף האדם יותר ממלקות לפי שדואג ממנו:
           זה חלום רע. מיראתו ישוב ויכנע:
         </p>
-        <h3>ברכות נה ע"א</h3>
-        <h4>עמוד</h4>
+        <h4>עמוד נה ע"א</h4>
         <RoeLinks />
       </div>
     </>

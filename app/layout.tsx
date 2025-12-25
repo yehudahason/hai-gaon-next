@@ -61,7 +61,7 @@ export default function RootLayout({
         <Script src="/nagishli.js?v=2.3" defer />
 
         {/* Active Link Script */}
-        <Script id="active-link">
+        {/* <Script id="active-link">
           {`
             document.addEventListener("DOMContentLoaded", () => {
               const links = document.querySelectorAll("a");
@@ -74,7 +74,7 @@ export default function RootLayout({
               });
             });
           `}
-        </Script>
+        </Script> */}
       </body>
     </html>
   );

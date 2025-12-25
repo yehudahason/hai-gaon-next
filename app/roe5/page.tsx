@@ -1,8 +1,11 @@
+"use client";
 import RoeLinks from "@/components/RoeLinks";
 export default function Roe5() {
   return (
     <>
       <div className="book-container">
+        <h1>פרק הרואה מסכת ברכות</h1>
+        <h3>עם פירוש שטיינזלץ זצ"ל</h3>
         <h3>ברכות נו ע"א</h3>
         <h4>עמוד</h4>
         <RoeLinks />
@@ -178,8 +181,8 @@ export default function Roe5() {
           קיימא. בך הוא תלוי הפתרון אם לטובה אם לרעה והפכת לי לרעה: אשתו של רבא.
           בת רב חסדא היתה: טורזינא דמלכא. שומר אוצר המלך: נפל תכלא. תולע:
         </p>
-        <h3>ברכות נו ע"א</h3>
-        <h4>עמוד</h4>
+        <h4>עמוד נו ע"א</h4>
+
         <RoeLinks />
       </div>
     </>

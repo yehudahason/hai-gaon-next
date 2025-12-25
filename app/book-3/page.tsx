@@ -1,3 +1,4 @@
+"use client";
 import Links from "@/components/Links";
 import Hailinks from "@/components/Hailinks";
 

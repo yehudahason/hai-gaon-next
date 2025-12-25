@@ -1,8 +1,11 @@
+"use client";
 import RoeLinks from "@/components/RoeLinks";
 export default function Roe4() {
   return (
     <>
       <div className="book-container">
+        <h1>פרק הרואה מסכת ברכות</h1>
+        <h3>עם פירוש שטיינזלץ זצ"ל</h3>
         <h3>ברכות נה ע"ב</h3>
         <h4>עמוד</h4>
         <RoeLinks />
@@ -158,8 +161,8 @@ export default function Roe4() {
           אלא מחשבותיו מבהלין אותו: דקלא דדהבא. דבר שלא הורגל לראות ולא הרהר בו
           מעולם: קופא דמחטא. נקב המחט:
         </p>
-        <h3>ברכות נה ע"ב</h3>
-        <h4>עמוד</h4>
+        <h4>עמוד נה ע"ב</h4>
+
         <RoeLinks />
       </div>
     </>

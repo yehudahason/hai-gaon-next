@@ -1,8 +1,11 @@
+"use client";
 import RoeLinks from "@/components/RoeLinks";
 export default function Roe7() {
   return (
     <>
       <div className="book-container">
+        <h1>פרק הרואה מסכת ברכות</h1>
+        <h3>עם פירוש שטיינזלץ זצ"ל</h3>
         <h3>ברכות נז ע"א</h3>
         <h4>עמוד</h4>
         <RoeLinks />
@@ -169,8 +172,8 @@ export default function Roe7() {
           ששת דורש להנאתו לפתור חלומו לטובה: יש שותהו כו'. לפיכך אין לעמוד על
           פתרונו:
         </p>
-        <h3>ברכות נז ע"א</h3>
-        <h4>עמוד</h4>
+        <h4>עמוד נז ע"א</h4>
+
         <RoeLinks />
       </div>
     </>

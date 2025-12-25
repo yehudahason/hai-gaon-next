@@ -1,8 +1,11 @@
+"use client";
 import RoeLinks from "@/components/RoeLinks";
 export default function Roe6() {
   return (
     <>
       <div className="book-container">
+        <h1>פרק הרואה מסכת ברכות</h1>
+        <h3>עם פירוש שטיינזלץ זצ"ל</h3>
         <h3>ברכות נו ע"ב</h3>
         <h4>עמוד</h4>
         <RoeLinks />
@@ -159,8 +162,8 @@ export default function Roe6() {
           מבשרו. בחלום: בין ברדוף. כשהוא רץ: גם עלה. קרוב לנוטריקון של גמל: פלא
           נעשה לו. כמו שנעשה לפינחס כדאמרינן בסנהדרין (דף פב.):
         </p>
-        <h3>ברכות נו ע"ב</h3>
-        <h4>עמוד</h4>
+        <h4>עמוד נו ע"ב</h4>
+
         <RoeLinks />
       </div>
     </>

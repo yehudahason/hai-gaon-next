@@ -1,8 +1,11 @@
+"use client";
 import RoeLinks from "@/components/RoeLinks";
 export default function Roe2() {
   return (
     <>
       <div className="book-container">
+        <h1>פרק הרואה מסכת ברכות</h1>
+        <h3>עם פירוש שטיינזלץ זצ"ל</h3>
         <h3>ברכות נד ע"ב</h3>
         <h4>עמוד</h4>
         <RoeLinks />
@@ -143,8 +146,8 @@ export default function Roe2() {
           אבל: חתן וכלה ותלמידי חכמים. מקנאתו מתגרה בהם: והמאריך על שלחנו. שמתוך
           כך עניים באין ומתפרנסים: והמאריך בבית הכסא. רפואה היא לו:
         </p>
-        <h3>ברכות נד ע"ב</h3>
-        <h4>עמוד</h4>
+        <h4>עמוד נד ע"ב</h4>
+
         <RoeLinks />
       </div>
     </>
