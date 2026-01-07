@@ -9648,3 +9648,20 @@
 [7.1.2026, 15:23:53] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
 [7.1.2026, 16:05:11] IP: ::ffff:193.142.147.209 | POST http://localhost:3000/ | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 [7.1.2026, 16:07:10] IP: ::ffff:138.68.228.215 | GET http://localhost:3000/ | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[7.1.2026, 16:23:02] IP: 167.99.85.252 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[7.1.2026, 16:23:02] IP: 167.99.85.252 | GET https://localhost:3000/favicon.ico | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[7.1.2026, 16:32:05] IP: ::ffff:192.159.99.95 | POST http://localhost:3000/ | UA: Mozilla/5.0 (rondo2012@atomicmail.io)
+[7.1.2026, 16:33:16] IP: 104.210.140.137 | GET https://localhost:3000/robots.txt | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot
+[7.1.2026, 16:55:25] IP: ::ffff:66.132.153.117 | GET http://localhost:3000/ | UA: Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+[7.1.2026, 16:55:30] IP: ::ffff:66.132.153.117 | GET http://localhost:3000/favicon.ico | UA: Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+[7.1.2026, 16:55:41] IP: ::ffff:66.132.153.117 | GET http://localhost:3000/favicon.ico?favicon.0b3bf435.ico= | UA: Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+[7.1.2026, 16:57:53] IP: ::ffff:66.132.153.117 | GET http://localhost:3000/login | UA: Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+[7.1.2026, 17:10:46] IP: 40.77.167.108 | GET https://localhost:3000/robots.txt | UA: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36
+[7.1.2026, 17:10:56] IP: 40.77.167.123 | GET https://localhost:3000/ | UA: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36
+[7.1.2026, 17:14:03] IP: ::ffff:176.65.149.162 | HEAD http://localhost:3000/ | UA: Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org  )
+[7.1.2026, 17:14:04] IP: ::ffff:176.65.149.162 | POST http://localhost:3000/ | UA: Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org  )
+[7.1.2026, 17:14:05] IP: ::ffff:176.65.149.162 | POST http://localhost:3000/_next | UA: Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org  )
+[7.1.2026, 17:37:19] IP: ::ffff:104.152.52.237 | GET http://localhost:3000/ | UA: curl/7.61.1
+[7.1.2026, 17:37:19] IP: ::ffff:104.152.52.237 | GET http://localhost:3000/favicon.ico | UA: curl/7.61.1
+[7.1.2026, 17:37:19] IP: ::ffff:104.152.52.237 | GET http://localhost:3000/favicon.ico?favicon.0b3bf435.ico= | UA: curl/7.61.1
+[7.1.2026, 17:38:35] IP: ::ffff:204.76.203.8 | POST http://localhost:3000/ | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 Assetnote/1.0.0
