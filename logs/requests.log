@@ -9665,3 +9665,34 @@
 [7.1.2026, 17:37:19] IP: ::ffff:104.152.52.237 | GET http://localhost:3000/favicon.ico | UA: curl/7.61.1
 [7.1.2026, 17:37:19] IP: ::ffff:104.152.52.237 | GET http://localhost:3000/favicon.ico?favicon.0b3bf435.ico= | UA: curl/7.61.1
 [7.1.2026, 17:38:35] IP: ::ffff:204.76.203.8 | POST http://localhost:3000/ | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 Assetnote/1.0.0
+[7.1.2026, 17:51:06] IP: 84.94.121.47 | GET https://localhost:3000/book-2 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:06] IP: 84.94.121.47 | GET https://localhost:3000/home2.svg | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:06] IP: 84.94.121.47 | GET https://localhost:3000/book-2 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:06] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/book-3 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/book-2 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/book-2 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/book-3 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/book-3 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/book-3 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/book-2 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/book-2 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/book | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/about | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/roe1 | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:07] IP: 84.94.121.47 | GET https://localhost:3000/ | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:41] IP: 84.94.121.47 | GET https://localhost:3000/nl-files/gfx/br.png | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:41] IP: 84.94.121.47 | GET https://localhost:3000/nl-files/gfx/bl.png | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:41] IP: 84.94.121.47 | GET https://localhost:3000/nl-files/gfx/tl.png | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 17:51:41] IP: 84.94.121.47 | GET https://localhost:3000/nl-files/gfx/tr.png | UA: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0
+[7.1.2026, 18:17:13] IP: ::ffff:193.142.147.209 | POST http://localhost:3000/ | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
