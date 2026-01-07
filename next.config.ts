@@ -19,19 +19,6 @@ const nextConfig: NextConfig = {
       { source: "/roe8.html", destination: "/roe8", permanent: true },
     ];
   },
-
-  async rewrites() {
-    return [
-      {
-        source: "/forum",
-        destination: "http://localhost:3333/forum/",
-      },
-      {
-        source: "/forum/:path*",
-        destination: "http://localhost:3333/forum/:path*",
-      },
-    ];
-  },
 };
 
 export default nextConfig;

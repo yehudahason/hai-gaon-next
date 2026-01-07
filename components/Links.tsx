@@ -39,9 +39,9 @@ export default function Links() {
         פרק הרואה
       </Link>
 
-      <Link href="/forum" className={pathname === "/forum" ? "active" : ""}>
+      {/* <Link href="/forum" className={pathname === "/forum" ? "active" : ""}>
         פורומים
-      </Link>
+      </Link> */}
       <Link href="/about" className={pathname === "/about" ? "active" : ""}>
         אודות
       </Link>

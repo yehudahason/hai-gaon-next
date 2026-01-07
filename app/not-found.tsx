@@ -9,9 +9,9 @@ export default function NotFound() {
         <Link href="/" className="nf-link">
           Back Home
         </Link>
-        <Link href="/forum" className="nf-link">
+        {/* <Link href="/forum" className="nf-link">
           Back To Forum
-        </Link>
+        </Link> */}
       </div>
     </>
   );
