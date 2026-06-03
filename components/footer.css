@@ -1,0 +1,55 @@
+.attribution {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  font-size: 1rem;
+  text-align: center;
+  padding: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(239, 225, 156);
+  direction: ltr;
+}
+
+/* Links */
+.attribution a {
+  margin: 0 0.25rem;
+  text-decoration: none;
+  font-weight: 600;
+  color: rgb(230, 82, 28);
+  transition:
+    color 0.2s ease,
+    opacity 0.2s ease;
+}
+
+.attribution a:hover {
+  opacity: 0.5;
+}
+
+/* Separator dot */
+.separator {
+  margin: 0 0.5rem;
+  opacity: 0.6;
+}
+
+/* Year flicker effect */
+.year {
+  margin-left: 0.5rem;
+  font-weight: 600;
+  display: inline-block;
+  animation: flicker 1s step-end infinite;
+  color: rgb(219, 89, 42);
+}
+
+/* Flicker animation */
+@keyframes flicker {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
