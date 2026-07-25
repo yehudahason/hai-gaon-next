@@ -16,7 +16,23 @@ const Search = () => {
 
     if (!query.trim()) return;
     if (query.length < 2) return;
-    const searchArray = query.split(/\s+/).filter(Boolean);
+    const commonWords = [
+      "הרואה",
+      "רואה",
+      "הרו",
+      "בחלום",
+      "חלום",
+      "של",
+      "לי",
+      "יש",
+      "אחר",
+      "אומר",
+    ];
+    const searchArray = query
+      .split(/\s+/)
+      .filter(Boolean)
+      .filter((el) => !commonWords.includes(el));
+
     const arrayH = new Set<string>();
     const arrayR = new Set<string>();
 
@@ -48,7 +64,6 @@ const Search = () => {
         setResultR([]);
       }
     }
-    setShow(false);
     fetchBook();
   }, []);
 
@@ -72,10 +87,10 @@ const Search = () => {
         />
 
         <button type="submit" className="search-btn">
-          <img src="/img/search.png" alt="search" width={18} />
+          <img src="/img/search.png" alt="search" width={22} />
         </button>
         <div className="search-info">
-          <img src="/img/qm.png" alt="" width={20} height={20} />
+          <img src="/img/qm.png" alt="" width={23} height={23} />
           <p>
             מחפש מילה מדויקת . ואות אחת ושתי אותיות יותר ממחרוזות המילים לחיפוש.
           </p>

@@ -34,6 +34,7 @@ export const searchWord2 = (text: string, query: string): string[] => {
   allMatches.forEach((match, i) => {
     const word = match[0];
     const lowerWord = word.toLowerCase();
+
     const index = match.index || 0;
 
     const start = getStartIndex(allMatches, i, 4);

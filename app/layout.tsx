@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import Script from "next/script";
 import Footer from "@/components/Footer";
 import { GoogleAnalytics } from "@next/third-parties/google";
+import SunMoon from "@/components/SunMoon";
 
 export const metadata: Metadata = {
   title: "סדר פתרון חלומות",
@@ -42,7 +43,8 @@ export default function RootLayout({
         <main>
           <Links />
           {children}
-          <br />
+
+          <SunMoon />
           <Footer />
           {/* Nagishli Accessibility Scripts */}
         </main>

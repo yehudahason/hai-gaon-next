@@ -1,0 +1,64 @@
+.footer-container {
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  max-width: 1440px;
+  padding-right: 10%;
+  margin: 50px auto;
+}
+.circle1 {
+  position: absolute;
+  display: none;
+  left: 10%;
+  top: 0;
+  height: 100px;
+  width: 100px;
+  background-color: rgb(195, 188, 56);
+  border-radius: 23px;
+  transform: rotate(45deg);
+  animation: rotate1 24s linear infinite;
+}
+
+.circle2 {
+  position: absolute;
+  display: none;
+
+  left: 10%;
+  top: 0;
+  height: 100px;
+  width: 100px;
+  background-color: rgb(195, 188, 56);
+  border-radius: 23px;
+  animation: rotate2 24s linear infinite;
+}
+
+@keyframes rotate1 {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes rotate2 {
+  from {
+    transform: rotate(45deg);
+  }
+
+  to {
+    transform: rotate(405deg);
+  }
+}
+.moon {
+  display: block;
+}
+@media (min-width: 678px) {
+  .circle1,
+  .circle2 {
+    display: block;
+  }
+}
