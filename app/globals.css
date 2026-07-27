@@ -7,8 +7,7 @@
 body {
   min-height: 100vh;
   margin-bottom: 3rem;
-  /* FIXED: Next.js injects font variables natively. We map it directly here */
-  font-family: Arial, sans-serif;
+  font-family: var(--font-hebrew), sans-serif;
   line-height: 1.5;
   direction: rtl;
 
@@ -23,7 +22,7 @@ body {
   color: white;
   font-size: 1.25rem;
   overflow-x: hidden;
-  letter-spacing: 0.2px;
+  letter-spacing: 1px;
 }
 
 /* Base Typographical Elements */

@@ -5,6 +5,14 @@ import Script from "next/script";
 import Footer from "@/components/Footer";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import SunMoon from "@/components/SunMoon";
+import { Noto_Sans_Hebrew } from "next/font/google";
+
+const notoSansHebrew = Noto_Sans_Hebrew({
+  subsets: ["hebrew"],
+  weight: ["400", "500", "700"],
+  variable: "--font-hebrew",
+  display: "swap",
+});
 
 export const metadata: Metadata = {
   title: "סדר פתרון חלומות",
@@ -28,7 +36,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="he" dir="rtl">
+    <html lang="he" dir="rtl" className={notoSansHebrew.variable}>
       <head>
         <link
           rel="preload"
