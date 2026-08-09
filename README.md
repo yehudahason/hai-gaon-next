@@ -1,1 +1,1 @@
-### Hai-gaon website with Next.js.
+### Hai-gaon website with Next.js
